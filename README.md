@@ -46,8 +46,9 @@ By using this tool, you agree to take full responsibility for your actions. The 
 3. Set up your `senders.txt` file with the appropriate app-specific keys and sender emails. The format should be as follows:
 
    ```
-   "email1@gmail.com" "app_password1"
-   "email2@gmail.com" "app_password2"
+   N1 "email1@gmail.com" "app_password1"
+   N2 "email2@gmail.com" "app_password2"
+   (and so on)
    ```
 
 4. (Optional) Set up your `proxy.txt` file with proxies if you want to route emails through them. The format for each line should be `IP:PORT`:
