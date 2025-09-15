@@ -100,12 +100,6 @@ The script will generate a random subject and body for each email and send the s
 
 This script is for **educational and testing purposes only**. The developer is not responsible for any misuse or illegal activities resulting from the use of this tool. Always respect privacy laws and regulations when using this or any similar script.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Important Notes:
 
 * **Use responsibly**: This tool should only be used for testing purposes on your own systems or systems where you have explicit permission to test.
