@@ -1,8 +1,3 @@
-Certainly! Here’s the **full README.md** for your GitHub repository, incorporating all the sections you need, including the updated license with your name ("samallx") and year (2025).
-
-### Full README.md
-
-````markdown
 # Email Nuker
 
 A script designed to send bulk emails using app-specific keys with proxy support for enhanced security and anonymity.
@@ -41,7 +36,6 @@ By using this tool, you agree to take full responsibility for your actions. The 
    ```bash
    git clone https://github.com/your-username/email-nuker.git
    cd email-nuker
-````
 
 2. Install the required packages:
 
