@@ -1,4 +1,4 @@
-N1 "sambuchalegend@gmail.com" "yqef peku uojf ymbw"
-N2 "iamabouttogoon@gmail.com" "vrsf dhze vitd dmio"
-N3 "colt69420qwert@gmail.com" "gzgv thnt neaj iynd"
-N4 "walterwhiteisthedanger1@gmail.com" "utki aaci weml bgcg"
+N1 "example@gmail.com" "app keys"
+N2 "example@gmail.com" "app keys"
+N3 "example@gmail.com" "app keys"
+N4 "example@gmail.com" "app keys"
